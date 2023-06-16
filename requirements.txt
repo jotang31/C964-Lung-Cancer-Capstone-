@@ -1,0 +1,13 @@
+pandas
+seaborn
+matplotlib.pyplot
+numpy
+sklearn.model_selection.train_test_split
+IPython.display.display_html
+sklearn.svm
+sklearn.metrics
+sklearn.model_selection.KFold 
+sklearn.model_selection.cross_val_score
+sklearn.linear_model.LogisticRegression
+IPython.display.display
+ipywidgets
