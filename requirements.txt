@@ -1,8 +1,8 @@
 pandas
 seaborn
-matplotlib.pyplot
+matplotlib
 numpy
-sklearn.model_selection.train_test_split
+sklearn.model_selection
 IPython.display.display_html
 sklearn.svm
 sklearn.metrics
