@@ -2,6 +2,6 @@ pandas
 seaborn
 matplotlib
 numpy
-sklearn
+scikit-learn
 IPython
 ipywidgets
